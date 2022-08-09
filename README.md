@@ -2,6 +2,8 @@
 
 ## Basic REST API build with Go
 
+[![Go version](https://img.shields.io/github/go-mod/go-version/NotKirzu/basic-rest-api.svg)](https://github.com/NotKirzu/basic-rest-api)
+
 ## Endpoints:
 > GET
 
