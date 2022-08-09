@@ -4,23 +4,30 @@
 
 ## Endpoints:
 > GET
----
+
 `/users` -> Get all users
 <br>
 `/users/:id` -> Get user by id
 
-> POST
 ---
+
+> POST
+
 `/users/:id` -> Add a new user
 
-> DELETE
 ---
+
+> DELETE
+
 `/users/:id` -> Remove an existent user
 
-> PATCH
 ---
+
+> PATCH
+
 `/users/:id` -> Modify an existent user
 
+---
 <br>
 
 ## Steps to build:
